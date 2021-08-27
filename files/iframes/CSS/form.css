@@ -1,0 +1,14 @@
+.w-50 {
+  margin-top: 30px;
+}
+
+body {
+  background: transparent !important;
+}
+
+.centred-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

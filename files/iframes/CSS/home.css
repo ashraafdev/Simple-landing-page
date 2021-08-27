@@ -1,0 +1,21 @@
+body {
+  background: transparent !important;
+}
+
+h1 {
+  color : white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  text-align:center;
+}
+
+.w-30 {
+  margin-bottom: 30px;
+}
